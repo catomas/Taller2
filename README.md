@@ -15,11 +15,8 @@ Create an app that renders the stored users in a data base, that add new users d
 | Express | ApiRest| 
 | MongoDb | Data base|
 | React   | FrontEnd |
-| WebPack | Bundler |
-| BabelRc | JSX to JS|
-| MongoDBAtlas | Global Cloud DB|
 | Materialize | framework CSS |
-| Heroku | Deployment |
+
 
 ## Documentation API Rest
 
