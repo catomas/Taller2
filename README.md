@@ -2,7 +2,7 @@
 
 ## Problem 
 
-Create an app that renders the stored users in a data base, that add new users directly from the frontend, and also capable of delete them and edit them. For organizing the data, it should be organized in three categories __*name*__, __*age*__ and __*sport*__ 
+Create an app that renders the stored users in a data base, that add new users directly from the frontend, and also capable of delete them and edit them. 
 
 
 ## Design
