@@ -1,0 +1,26 @@
+[{
+    "name": "Pickle",
+    "lastName": "Rick",
+    "age": "65",
+    "sport": "Kill rats"
+  },
+  {
+    "name": "Artur",
+    "lastName": "King",
+    "age": "23",
+    "sport": "Run"
+  },
+  {
+    "name": "Bob",
+    "lastName": "Maley",
+    "age": "99",
+    "sport": "Soccer"
+  },
+  {
+    "name": "Pink",
+    "lastName": "Panter",
+    "age": "45",
+    "sport": "Basket"
+  }
+]
+

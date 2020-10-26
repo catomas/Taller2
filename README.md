@@ -6,7 +6,7 @@ Create an app that renders the stored users in a data base, that add new users d
 
 
 ## Design
-![Disenio](https://github.com/catomas/ComonoAct/blob/master/diagrama/diagrama.jpg) 
+![Disenio](https://github.com/catomas/Taller2/blob/main/diagram/diagram.jpg) 
 
 ## Development technologies
 | Technology | Description| 
@@ -27,5 +27,10 @@ https://documenter.getpostman.com/view/6633944/Szmb6zmJ?version=latest
 
 ```
 npm install
+
+```
+
+```
+nodemon server/server.js
 
 ```
